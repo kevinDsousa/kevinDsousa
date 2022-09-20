@@ -16,7 +16,7 @@ Olá me chamo Kevin Diego
 <br>
   
 <div style="display: inline_block">
-   <!--<img height="100" width="150" align="left" src="https://github.com/KevinDik/kevindik/blob/7d350c75ad9576ee633d8e52afd830e9dd5a7ce1/.github/workflows/octocat-1663446066911.png">-->
+  <img height="100" width="150" align="right" src=".github/workflows/octocat-1663446066911 (1).png">
   <img align="center" alt="kevin-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="kevin-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="kevin-selenium" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/>
