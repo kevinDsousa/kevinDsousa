@@ -1,8 +1,8 @@
-Olá me chamo Kevin Diego
+<h1>Olá me chamo Kevin Diego, e este é meu repositório</h1>
 
-- 🔭 Estou trabalhando atualmente com Redes de fibra ótica.
-- 🌱 Atualmente estudo Analise em desenvolvimento de sistemas com foco em programação.
-- 👯 Procuro colaborar com automação de tarefas e desenvolvimento full stack.
+- 💻 Estou trabalhando atualmente com Redes de fibra ótica.
+- 💼 Atualmente estudo Analise em desenvolvimento de sistemas com foco em programação.
+- 🙋‍♂️ Procuro colaborar com automação de tarefas e desenvolvimento full stack.
 - 🤔 Boas práticas no desenvolvimento de código.
 - 😄 Pronomes: Ele / Dele
 - ⚡ Fato engraçado: Troco café por um bom chá.
