@@ -7,6 +7,8 @@
 - 😄 Pronomes: Ele / Dele
 - ⚡ Fato engraçado: Troco café por um bom chá.
 
+##
+
 <div align="center">
   <a href="https://github.com/KevinDik">
   <img height="180em"src="https://github-profile-trophy.vercel.app/?username=kevindik&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
@@ -15,6 +17,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevindik&hide=html&layout=compact&theme=tokyonight&hide_border=false"/>
 </div>
 
+##
 <br>
   
 <div style="display: inline_block">
