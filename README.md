@@ -12,7 +12,7 @@
   <img height="180em"src="https://github-profile-trophy.vercel.app/?username=kevindik&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KevinDik&show_icons=true&theme=tokyonight&include_all_commits=false&count8_private=true"/>
    <img height="160em"src="https://github-readme-streak-stats.herokuapp.com/?user=kevindik&theme=tokyonight&hide_border=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevindik&layout=compact&langs_count7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevindik&hide=html&layout=compact&theme=tokyonight&hide_border=false"/>
 </div>
 
 <br>
