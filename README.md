@@ -8,7 +8,7 @@
 - 💼 Atualmente estudo Analise em desenvolvimento de sistemas com foco em programação.
 - 🙋‍♂️ Procuro colaborar com automação de tarefas e desenvolvimento full stack.
 - 🤔 Boas práticas no desenvolvimento de código.
-- 😄 Esta pixelart foi eu mesmo quem fiz hahaha
+- 😄 Esta pixelart foi eu mesmo quem fiz hahaha.
 - ⚡ Fato engraçado: Troco café por um bom chá.
 
 ##
