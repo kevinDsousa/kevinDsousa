@@ -1,15 +1,15 @@
-<h2>Olá me chamo Kevin Diego, e este é meu repositório</h2>
+<h2>Hi, my name is Kevin Diego</h2>
 
 <img height="450" width="100%" align="right" src=".github/workflows/header.png">
 
 ---
 
-- 💻 Estou trabalhando atualmente com Redes de fibra ótica.
-- 💼 Atualmente estudo Analise em desenvolvimento de sistemas com foco em programação.
-- 🙋‍♂️ Procuro colaborar com automação de tarefas e desenvolvimento full stack.
-- 🤔 Boas práticas no desenvolvimento de código.
-- 😄 Esta pixelart foi eu mesmo quem fiz hahaha.
-- ⚡ Fato engraçado: Troco café por um bom chá.
+- 💻 I work as a network analyst.
+- 💼 Systems analysis and development student.
+- 🙋‍♂️ I'm looking to collaborate with task automation and full stack development.
+- 🤔 Best practices in code development.
+- 😄 This pixelart was made by myself hahaha.
+- ⚡ Fun Fact: I trade coffee for good tea.
 
 ##
 
