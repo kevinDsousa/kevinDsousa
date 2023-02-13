@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FEFEFE&size=38&center=true&vCenter=true&width=1000&lines=Hello+everyone,+my+name+is+Kevin+Diego+👋;Be+Welcome+my+GitHub!+💻🤟;I'm+happy+to+have+your+here)](https://git.io/typing-svg)
 
-<img height="300" width="100%" align="center" src=".github/workflows/header.png">
+<img height="350" width="100%" align="center" src=".github/workflows/header.png">
 
 ---
 
