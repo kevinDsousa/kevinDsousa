@@ -13,7 +13,6 @@
 
 <div align="center">
   <a href="https://github.com/KevinDik">
-  <img height="180em"src="https://github-profile-trophy.vercel.app/?username=kevindik&theme=discord&no-frame=true&no-bg=true&margin-w=5"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KevinDik&show_icons=true&theme=gotham#gh-dark-mode-only&include_all_commits=false&count7_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevindik&hide=html&layout=compact&theme=gotham#gh-dark-mode-only&hide_border=false"/>
 </div>
