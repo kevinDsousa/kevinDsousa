@@ -8,7 +8,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinDsousa&hide=html&layout=compact&theme=gotham#gh-dark-mode-only&hide_border=false"/>
 </div>
 
-##
 <br>
  
  ## My Favorite tecnologies
