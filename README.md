@@ -2,15 +2,6 @@
 
 ---
 
-- 💻 I work as a network analyst.
-- 💼 Systems analysis and development student.
-- 🙋‍♂️ I'm looking to collaborate with task automation and full stack development.
-- 🤔 Best practices in code development.
-- 😄 This pixelart was made by myself hahaha.
-- ⚡ Fun Fact: I trade coffee for good tea.
-
-##
-
 <div align="center">
   <a href="https://github.com/KevinDsousa">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KevinDsousa&show_icons=true&theme=gotham#gh-dark-mode-only&include_all_commits=false&count8_private=true"/>
