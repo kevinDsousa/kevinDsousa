@@ -12,9 +12,9 @@
 ##
 
 <div align="center">
-  <a href="https://github.com/KevinDik">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KevinDik&show_icons=true&theme=gotham#gh-dark-mode-only&include_all_commits=false&count7_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevindik&hide=html&layout=compact&theme=gotham#gh-dark-mode-only&hide_border=false"/>
+  <a href="https://github.com/KevinDsousa">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KevinDsousa&show_icons=true&theme=gotham#gh-dark-mode-only&include_all_commits=false&count8_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinDsousa&hide=html&layout=compact&theme=gotham#gh-dark-mode-only&hide_border=false"/>
 </div>
 
 ##
